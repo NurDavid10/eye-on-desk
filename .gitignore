@@ -6,3 +6,4 @@ node_modules/
 *.dylib
 *.node
 *.pack
+*.DS_Store
